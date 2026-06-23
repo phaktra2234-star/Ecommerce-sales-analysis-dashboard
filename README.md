@@ -44,19 +44,19 @@ The main goals of this project are:
 ## Project Structure
 
 ```text
-ecommerce-sales-analysis-dashboard
+Ecommerce-sales-analysis-dashboard
 │
 ├── dashboard
 │   └── EcommerceDashboard.pbix
 │
 ├── notebook
-│   └── ecommerce_analysis.ipynb
+│   └── Ecommerce_analysis.ipynb
 │
 ├── images
-│   └── ecommerce_dashboard.png
+│   └── Ecommerce_dashboard.png
 │
 ├── data
-│   └── ecommerce_analysis.csv
+│   └── Ecommerce_analysis.csv
 │
 └── README.md
 ```
